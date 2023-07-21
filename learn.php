@@ -8,4 +8,4 @@
 doStuff();
 do_stuff();
 
-?>
+?> // PHP code must be enclosed with ?> tags
