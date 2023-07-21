@@ -1,4 +1,4 @@
-<?php // PHP code must be enclosed with <?php tags
+<?php // PHP code must be enclosed with this tag
 
 // Single-line comments start with two slashes.
 /* Multiline comments start with slash-star,
@@ -8,4 +8,4 @@
 doStuff();
 do_stuff();
 
-?> // PHP code must be enclosed with ?> tags
+?> // PHP code must be enclosed with this tag
